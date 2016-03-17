@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1458180750 source:g:\datastructs_and_algorithm\code\huffman\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1458180665 g:\datastructs_and_algorithm\code\huffman\huffman.h
+
+1458182566 source:g:\datastructs_and_algorithm\code\huffman\main.c
+	<stdio.h>
+	"huffman.h"
+
+1458182603 source:g:\datastructs_and_algorithm\code\huffman\minheap.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
